@@ -1,0 +1,200 @@
+{
+  "label": "Recorded Squeekchain rounds, 6 November 2026. Practice only.",
+  "capturedAt": "2026-11-06T10:22:14.997Z",
+  "installation": "sepolia-core-sepolia-20261103",
+  "safeBlock": "12075934",
+  "rounds": [
+    {
+      "id": 335,
+      "work": 0,
+      "distanceMm": 0,
+      "dataHash": "0xa78faebd5aad38b4f90c7f61b9c5c10e8d9b9afe74ebfc2e82ca98b7e57ed562:certified-zero:335",
+      "endAt": "2026-11-06T03:40:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 336,
+      "work": 0,
+      "distanceMm": 0,
+      "dataHash": "0xa78faebd5aad38b4f90c7f61b9c5c10e8d9b9afe74ebfc2e82ca98b7e57ed562:certified-zero:336",
+      "endAt": "2026-11-06T03:50:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 337,
+      "work": 258,
+      "distanceMm": 226524,
+      "dataHash": "0xde3f55173bc0a0963ba08110a06c3d7266b2c4d668cc9adc88fac4a42c417578",
+      "endAt": "2026-11-06T04:00:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 338,
+      "work": 465,
+      "distanceMm": 408270,
+      "dataHash": "0x252d2a5226dd92ed2e7c5e3de0f05a1a802ab62fa08aab4fd34434f500fd5785",
+      "endAt": "2026-11-06T04:10:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 339,
+      "work": 439,
+      "distanceMm": 385442,
+      "dataHash": "0xca75e012e8bb82a7efe73fc977e2357f6a15f378bc00352d377442d74843a7a6",
+      "endAt": "2026-11-06T04:20:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 340,
+      "work": 293,
+      "distanceMm": 257254,
+      "dataHash": "0x967d3a75a5abf23481e9953853a9020de6252eff35718795f55a67eeedf65703",
+      "endAt": "2026-11-06T04:30:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 341,
+      "work": 318,
+      "distanceMm": 279204,
+      "dataHash": "0xbe33be82f614693adff4d0a53245c5aeae2b484e0191ddcf0b5423e5ea804091",
+      "endAt": "2026-11-06T04:40:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 342,
+      "work": 404,
+      "distanceMm": 354712,
+      "dataHash": "0xbaf6a7b518614653d135f0ba99eb99094a2b71c33ced37de1e2a6d610ba30e0e",
+      "endAt": "2026-11-06T04:50:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 343,
+      "work": 357,
+      "distanceMm": 313446,
+      "dataHash": "0xf6116e655c9b57211e64ce94460ed9240f897cfcf96518c023fbe0280ea85a4a",
+      "endAt": "2026-11-06T05:00:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 344,
+      "work": 302,
+      "distanceMm": 265156,
+      "dataHash": "0xf870a9c8a37df57d4ac3f054ea420c85daa7f475ee1c8207bba068bd14e82d98",
+      "endAt": "2026-11-06T05:10:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 345,
+      "work": 495,
+      "distanceMm": 434610,
+      "dataHash": "0xe03f7203d9854a6cf7da961748084c23f2ddf58c3ee1513e2f54dc90117e3eea",
+      "endAt": "2026-11-06T05:20:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 346,
+      "work": 198,
+      "distanceMm": 173844,
+      "dataHash": "0x6dbb6f9b94a2b72ded3e03af34382cc96a6238947e12877c5a5a934cbff709d2",
+      "endAt": "2026-11-06T05:30:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 347,
+      "work": 459,
+      "distanceMm": 403002,
+      "dataHash": "0xc638f217295e5443ca52544a6e4303f18da48523777c828bbe7c0b813bea8315",
+      "endAt": "2026-11-06T05:40:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 348,
+      "work": 387,
+      "distanceMm": 339786,
+      "dataHash": "0x6f46a9254a05b168d2ccbae79f879d69aece6c42f339d1b5d59353142ab51353",
+      "endAt": "2026-11-06T05:50:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 349,
+      "work": 160,
+      "distanceMm": 140480,
+      "dataHash": "0xeecd55eb62f45c38080c0557d6339b5448107f24b9135a206e49b531dd5930d7",
+      "endAt": "2026-11-06T06:00:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 350,
+      "work": 424,
+      "distanceMm": 372272,
+      "dataHash": "0xeb5c43f1f6bfe2f935f6aacad92d754e26a94e32e918af0922c295f5e92aca62",
+      "endAt": "2026-11-06T06:10:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 351,
+      "work": 401,
+      "distanceMm": 352078,
+      "dataHash": "0x34b1f1e75c4f2ac3da89acc63aea9d20b8d3be0d40df78d2e2bfc5dfb7503ff5",
+      "endAt": "2026-11-06T06:20:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 352,
+      "work": 349,
+      "distanceMm": 306422,
+      "dataHash": "0x59a829e48758818b076674ed25fede35a1062105f3b2881205c73f0509e9a1b8",
+      "endAt": "2026-11-06T06:30:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 353,
+      "work": 244,
+      "distanceMm": 214232,
+      "dataHash": "0xcf2e1b8e47e3ed60bc226fc31c7bf28cdb83aea63f47a89730e2af247058972b",
+      "endAt": "2026-11-06T06:40:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 354,
+      "work": 304,
+      "distanceMm": 266912,
+      "dataHash": "0xf35254f06df7862c0ba4bd7e805fb372af6376667e7cfd223d1302039eb3856c",
+      "endAt": "2026-11-06T06:50:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 355,
+      "work": 448,
+      "distanceMm": 393344,
+      "dataHash": "0x130782b1dc8090601f73a2678822b004d0be5246775377f36c52ac428fccea78",
+      "endAt": "2026-11-06T07:00:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 356,
+      "work": 81,
+      "distanceMm": 71118,
+      "dataHash": "0x1e0f12c7bcbd7434778df5d9b7a79271752cffc05aec5c5e4be6462f26a5c5b7",
+      "endAt": "2026-11-06T07:10:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 357,
+      "work": 427,
+      "distanceMm": 374906,
+      "dataHash": "0x51448cfc2269e859c8133530281e041292ac1408672b1716a146d9dfe9f47551",
+      "endAt": "2026-11-06T07:20:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    },
+    {
+      "id": 358,
+      "work": 18,
+      "distanceMm": 15804,
+      "dataHash": "0x45424c788ff4d1b8889cdbc4879d424813b810f9e96835fec3a00564813fd92c",
+      "endAt": "2026-11-06T07:30:00.000Z",
+      "source": "https://ethereum-sepolia-rpc.publicnode.com · 0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4 · block 12075934"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# Path budget: generated dependencies, test scaffolding and private runtime state: 0 submitted bytes.
+**/node_modules/
+/test/scratch/
+/runtime/
+*.tsbuildinfo
+# Path budget: final reports and screenshots in artifacts/**: at most 2,097,152 submitted bytes.
+!artifacts/
+!artifacts/**

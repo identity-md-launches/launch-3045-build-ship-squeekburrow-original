@@ -1,0 +1,101 @@
+{
+  "viewports": [
+    320,
+    390,
+    768,
+    1100,
+    1440
+  ],
+  "checks": [
+    {
+      "name": "Main action is fully on the first 390 × 844 screen",
+      "passed": true,
+      "actionBottom": 796.5625
+    },
+    {
+      "name": "Production export loads at a subpath, with no horizontal overflow at five widths",
+      "passed": true
+    },
+    {
+      "name": "Burrow settings remains reachable on mobile",
+      "passed": true
+    },
+    {
+      "name": "Native radio assignments support keyboard arrows and a visible focus perimeter",
+      "passed": true
+    },
+    {
+      "name": "Onboarding validates an empty name, focuses its error, and locks exactly one assignment",
+      "passed": true
+    },
+    {
+      "name": "A recorded round applies the deterministic result and survives a full reload",
+      "passed": true
+    },
+    {
+      "name": "Forage, Fortify, Explore and Rest all commit and resolve through real controls",
+      "passed": true
+    },
+    {
+      "name": "Journal navigation reveals all four results, exact source data and expandable consequences",
+      "passed": true
+    },
+    {
+      "name": "Leaderboard names the player and explicitly identifies computer helpers",
+      "passed": true
+    },
+    {
+      "name": "Keyboard opens the field guide; Escape closes it and restores focus",
+      "passed": true
+    },
+    {
+      "name": "Axe reports no WCAG A/AA violations on the played burrow at 390 and 1440",
+      "passed": true
+    },
+    {
+      "name": "All 24 rounds are playable, victory is shown, and the recap payload matches the complete colony",
+      "passed": true
+    },
+    {
+      "name": "A fresh season with neglected supplies loses and explains its survival failure",
+      "passed": true
+    },
+    {
+      "name": "An unconfigured live service shows a visible recovery action and no fabricated colony state",
+      "passed": true
+    },
+    {
+      "name": "Service settings reject insecure remote origins",
+      "passed": true
+    },
+    {
+      "name": "No uncaught browser exceptions during the complete interaction flow",
+      "passed": true
+    }
+  ],
+  "consoleErrors": [],
+  "externalFailures": [
+    "https://api.squeekchain.com/v1/status",
+    "https://api.squeekchain.com/v1/core",
+    "https://api.squeekchain.com/v1/measurement/stats?range=7d",
+    "https://api.squeekchain.com/v1/status",
+    "https://api.squeekchain.com/v1/core",
+    "https://api.squeekchain.com/v1/measurement/stats?range=7d"
+  ],
+  "accessibility": [
+    {
+      "width": 390,
+      "violations": []
+    },
+    {
+      "width": 1440,
+      "violations": []
+    }
+  ],
+  "limitations": [
+    "Native browser file saving was unavailable: canceled. The real download event, filename and complete Blob payload were validated; the browser's filesystem save is not claimed.",
+    "Chromium automation and emulated viewports do not establish screen-reader, physical-device, native 200% zoom, or WebKit behavior.",
+    "Practice tests use the shipped recorded rounds. They do not claim a deployed shared live service.",
+    "Official API network availability is independent; blocked external requests are reported separately."
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "performedAt": "2026-11-06T11:06:38.528Z",
+  "api": "https://api.squeekchain.com",
+  "rpc": "https://ethereum-sepolia-rpc.publicnode.com",
+  "chainId": "11155111",
+  "core": "0xfd6c166d4b8e2962e65746a13e5a0797cd4de0c4",
+  "checks": [
+    {
+      "name": "Production service reads fresh hardware data from the actual official API",
+      "passed": true,
+      "currentRound": 380,
+      "settledThrough": 379,
+      "safeBlock": "12076150"
+    },
+    {
+      "name": "The production service serves the static export and enables same-origin service discovery",
+      "passed": true
+    },
+    {
+      "name": "Two independent HTTP sessions share one durable colony",
+      "passed": true
+    },
+    {
+      "name": "The HTTP boundary rejects resource injection and forged authentication",
+      "passed": true
+    },
+    {
+      "name": "A real current-round assignment is visible across sessions, immutable, and does not settle early",
+      "passed": true
+    },
+    {
+      "name": "The actual confirmed contract archive decodes three consecutive source rounds",
+      "passed": true,
+      "rounds": [
+        {
+          "id": 377,
+          "work": 0,
+          "distanceMm": 0
+        },
+        {
+          "id": 378,
+          "work": 0,
+          "distanceMm": 0
+        },
+        {
+          "id": 379,
+          "work": 0,
+          "distanceMm": 0
+        }
+      ]
+    },
+    {
+      "name": "Two independent production browsers discover live play, join the same colony, and retain distinct identities",
+      "passed": true
+    },
+    {
+      "name": "An actual live choice locks through reload and its assignment count appears in the other browser",
+      "passed": true
+    },
+    {
+      "name": "A browser receives a visible service failure, then recovers the same live player and shared state",
+      "passed": true
+    },
+    {
+      "name": "Live multiplayer browser interactions produce no uncaught exceptions",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "This bounded smoke check does not wait ten minutes for the chosen live round to resolve. Settlement and recovery are tested with official historical rounds in the automated suite.",
+    "The service ran locally for validation; this does not establish a publicly hosted shared backend."
+  ]
+}

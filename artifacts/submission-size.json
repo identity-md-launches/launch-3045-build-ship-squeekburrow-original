@@ -1,0 +1,11 @@
+{
+  "product": "SqueekBurrow",
+  "candidateFiles": 74,
+  "totalBytes": 2261422,
+  "budgetBytes": 8388608,
+  "withinBudget": true,
+  "artifactsBytes": 1151086,
+  "artifactsBudgetBytes": 2097152,
+  "generatedPaths": [],
+  "forbiddenPaths": []
+}
